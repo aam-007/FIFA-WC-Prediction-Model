@@ -74,30 +74,7 @@ Current simulation predicts Senegal as the champion, highlighting the stochastic
 - Knockout stage winner distribution chart
 - All charts automatically saved in the `charts/` folder for research or reporting
 
-## Installation
 
-### Prerequisites
-
-- Python 3.8 or higher
-- Jupyter Notebook or JupyterLab
-
-### Setup
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd fifa_wc_prediction
-```
-
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
 
 
 ## Model Performance
